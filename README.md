@@ -4,6 +4,8 @@
 
 Cryptomirror downloads files defined in `releases.py` and verifies them by hash value and GPG signature.
 
+[https://cryptomirror.com](https://cryptomirror.com)
+
 ### Content owners
 
 Software releases in `releases.py` are unmodified and retain the original license available on each publisher's website. All rights are retained by their respective owners. 
@@ -40,7 +42,7 @@ pip install -r requirements.txt
 python cryptomirror/cryptomirror.py
 ```
 
-## Site
+## Site Build Usage
 
 Run `build-site.sh` and deploy to web server.
 
