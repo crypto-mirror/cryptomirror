@@ -1,0 +1,6 @@
+*.pyc
+venv
+
+site/_includes/page-header.html
+site/assets/
+site/src/
