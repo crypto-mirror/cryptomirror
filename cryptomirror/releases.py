@@ -21,13 +21,12 @@ RELEASES = [
          "D238EA65D64C67ED4C3073F28A861B1C7EFD60D9",
      ],
      "name": "GNU Privacy Guard",
-     "version": "2.1.20",
-     "url": "https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.1.20.tar.bz2",
+     "version": "2.1.21",
+     "url": "https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.1.21.tar.bz2",
      "gpg_signature": "",
-     "gpg_signature_url": "https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.1.20.tar.bz2.sig",
-     "sha1": "500ddae8e4225ae2e300934090f9b9a427b8def1",
-     "sha256": "24cf9a69369be64a9f6f8cc11a1be33ab7780ad77a6a1b93719438f49f69960d",
-     "sha512": "14a9890bc64e143f87cff121dd298d490d78dbd34e36883e0f25763ff9064e5706a7632893d7c5d0e8e9b8cf9cdb0d378b4ce1715348729f0fc080455b61eca9",
+     "gpg_signature_url": "https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.1.21.tar.bz2.sig",
+     "sha1": "1852c066bc21893bc52026ead78edf50fdf15e13",
+     "sha256": "7aead8a8ba75b69866f583b6c747d91414d523bfdfbe9a8e0fe026b16ba427dd",
      },
 
     # Tails
@@ -38,9 +37,8 @@ RELEASES = [
      "url": "https://mirrors.ocf.berkeley.edu/tails/stable/tails-amd64-3.0/tails-amd64-3.0.iso",
      "gpg_signature": "",
      "gpg_signature_url": "https://tails.boum.org/torrents/files/tails-amd64-3.0.iso.sig",
-     "sha1": "",
-     "sha256": "",
-     "sha512": "",
+     "sha1": "4e27a1d83cfaa4ee0d94372df453b8024041a51d",
+     "sha256": "676f1322166536dc1e27b8db22462ae73f0891888cfcb09033ebc38f586e834a",
      },
 
     # Tor
@@ -50,10 +48,9 @@ RELEASES = [
      "version": "7.0.1",
      "url": "https://www.torproject.org/dist/torbrowser/7.0.1/torbrowser-install-7.0.1_en-US.exe",
      "gpg_signature": "",
-     "gpg_signature_url": "https://www.torproject.org/dist/torbrowser/6.5.2/torbrowser-install-6.5.2_en-US.exe.asc",
-     "sha1": "",
-     "sha256": "",
-     "sha512": "",
+     "gpg_signature_url": "https://www.torproject.org/dist/torbrowser/7.0.1/torbrowser-install-7.0.1_en-US.exe.asc",
+     "sha1": "29d16ddbb542a60352ed2648133baed87d6f74b1",
+     "sha256": "d9a07c2cb50523056cfa8dc792e498cf8fc032512d34aae84d9ae65e7e0ece97",
      },
     {"publisher": "Tor Project",
      "publisher_keys": ["EF6E286DDA85EA2A4BA7DE684E2C6E8793298290"],
@@ -62,9 +59,8 @@ RELEASES = [
      "url": "https://www.torproject.org/dist/torbrowser/7.0.1/TorBrowser-7.0.1-osx64_en-US.dmg",
      "gpg_signature": "",
      "gpg_signature_url": "https://www.torproject.org/dist/torbrowser/7.0.1/TorBrowser-7.0.1-osx64_en-US.dmg.asc",
-     "sha1": "",
-     "sha256": "",
-     "sha512": "",
+     "sha1": "f47ebb84e32e57854694cb9ee8a153b9036f31ea",
+     "sha256": "7ebbede7a17fe69767f313181da7b1a55cfac5dda749bc7a5a9eeb7b37464a50",
      },
     {"publisher": "Tor Project",
      "publisher_keys": ["EF6E286DDA85EA2A4BA7DE684E2C6E8793298290"],
@@ -73,9 +69,8 @@ RELEASES = [
      "url": "https://www.torproject.org/dist/torbrowser/7.0.1/tor-browser-linux64-7.0.1_en-US.tar.xz",
      "gpg_signature": "",
      "gpg_signature_url": "https://www.torproject.org/dist/torbrowser/7.0.1/tor-browser-linux64-7.0.1_en-US.tar.xz.asc",
-     "sha1": "",
-     "sha256": "",
-     "sha512": "",
+     "sha1": "834e00b60416c75e7a33367dde29fa85139e310b",
+     "sha256": "49bb80d7ba864a2b4701ba1765d78cf4d61e5a481c179dd92fa8adbb82fbacfe",
      },
 
     # Veracrypt
@@ -88,7 +83,6 @@ RELEASES = [
      "gpg_signature_url": "https://launchpad.net/veracrypt/trunk/1.19/+download/VeraCrypt_1.19_Bundle.7z.sig",
      "sha1": "12b3981cf79aa1369ec13837b40af0200e996461",
      "sha256": "8c2384c9a47256509f614a57cacc45ea239444eb4c5db63c6d17e29b3d1a1440",
-     "sha512": "7a533ed087b48601e645eb53cfc056260cc3b27380a3fc10903f71213b0e588568e65dad0ac1bc8b759f0dd26fd9812aa297aed5b2e4690457755696b6f4ec19",
      },
 
     # OS X Fuse
@@ -105,7 +99,6 @@ RELEASES = [
      "gpg_signature_url": "https://developers.yubico.com/yubikey-neo-manager/Releases/yubikey-neo-manager-1.4.0.tar.gz.sig",
      "sha1": "152196386b327072fc29315b84f3fb7bf2680c72",
      "sha256": "2fb8fc72982a8158379d2ac46802d26eb288bed09e33fe78df0a4c7844df5dc7",
-     "sha512": "a20d8168e38a1f55c140da9bd4c6c001a70f4f977edf8625475497aedd55d082a8ef0bfedb5c61350ac5658a3d0a086edf42743be9e960b2b5898d6925b416dc",
      },
     {"publisher": "Yubico",
      "publisher_keys": ["20EE325B86A81BCBD3E56798F04367096FBA95E8"],
@@ -116,7 +109,6 @@ RELEASES = [
      "gpg_signature_url": "https://developers.yubico.com/yubikey-neo-manager/Releases/yubikey-neo-manager-1.4.0-mac.pkg.sig",
      "sha1": "1ef53a34012272e0057ecb0737b9678aa55b051a",
      "sha256": "b1af0f922bb8b6da285bf34bc012f48773c2529b4e128fe9a48f4ef768f70bd4",
-     "sha512": "89059073c723f0a6493c05cbcd23b638d385d145efd35311d5d35ad92494fd61a65331781f1ceab18331c71ee875aa8fcd054c15647b2ec0bb1ecd3f70ce4796",
      },
     {"publisher": "Yubico",
      "publisher_keys": ["20EE325B86A81BCBD3E56798F04367096FBA95E8"],
@@ -127,7 +119,6 @@ RELEASES = [
      "gpg_signature_url": "https://developers.yubico.com/yubikey-neo-manager/Releases/yubikey-neo-manager-1.4.0-win.exe.sig",
      "sha1": "ef03f0a6c30d137aec66e9ff4b6eaba4153f083b",
      "sha256": "d7d03379af80ae15487106c685dceacf1851d6d4d59bde29117c42b9b83167e2",
-     "sha512": "41f039c0a171f22a55a758df916a7207935666ae848301476c680cc5eefdedfe2a05033d4ad44475f90c1709e8eaa99d943ec57d1e1c59ad2fb751645c368225",
      },
 
     # GPG4Win
@@ -143,7 +134,6 @@ RELEASES = [
      "gpg_signature_url": "https://files.gpg4win.org/gpg4win-2.3.3.exe.sig",
      "sha1": "67e13c4f90ff6a70ad57bd31af64a238c9315308",
      "sha256": "5675770b85d49cb05fd3e4bdee7528e19991be508760eef86157d1fa01f0f254",
-     "sha512": "fdc40d4f7f011f5ba4c63572967ef648b704f1d09fcc28a7b49e9dd3339cfd3945f6ab57fe5f75b6cb975a9429666b79326fa9211146efc02bd9f14c0168f480",
      },
     {"publisher": "Gpg4win",
      "publisher_keys": [],
@@ -154,7 +144,6 @@ RELEASES = [
      "gpg_signature_url": "https://files.gpg4win.org/gpg4win-2.3.3.tar.bz2.sig",
      "sha1": "5fa6d34206f3b08f1fdee58b03db1dc06c627388",
      "sha256": "f9d87ef95d6858ba478afc6a663634dd9eec174a7e2c94885ff96598d570ffd6",
-     "sha512": "7a200cc7d80efb4c5a04c17a928a2f5b972d0e0d4580b643f83b9857bfc27854b14bb014b6f72d7495e80446041736075cbae3cebf2fb167cd4c439b6ca9a660",
      },
 
     # GPG Tools
@@ -167,7 +156,6 @@ RELEASES = [
      "gpg_signature_url": "https://releases.gpgtools.org/GPG_Suite-2016.10_v2.dmg.sig",
      "sha1": "da8854cd9435d077dbdac7e71dac920ac38d15f2",
      "sha256": "8dbc5821876ca5c470d0127087f782ba02a842c52e6e19336cd935db7c5859ab",
-     "sha512": "cf0ac95211f11da705da1cb9cd42bb295c089a05b3e9bc07a100bb9202cd8440c3a6522feb57debff67e1bb9a12d225aa78af90ffedfaab7d586f1386f1ed45a",
      },
     {"publisher": "GPG Tools",
      "publisher_keys": ["85E38F69046B44C1EC9FB07B76D78F0500D026C4"],
@@ -178,20 +166,18 @@ RELEASES = [
      "gpg_signature_url": "https://releases.gpgtools.org/GPG_Suite-2016.10_v2.txz.sig",
      "sha1": "50eeee4c7711e325d1415df582c9a13ca9e50905",
      "sha256": "3ef3d0d6a3d554302a3e7c6b162c3b57922e9117b7649f446f506e8c9dbfb6c5",
-     "sha512": "480fc7c0b7eb13c7b81a0cc76f902f104335084437d5dbc870bf0e82842d73a9ccb8b935aaf02427f896187fc3d689f82ebaabfda04961587bce00177bafc1be",
      },
 
     # OpenSSL
     {"publisher": "OpenSSL",
      "publisher_keys": ["8657ABB260F056B1E5190839D9C4D26D0E604491"],
      "name": "OpenSSL",
-     "version": "1.1.0e",
-     "url": "https://www.openssl.org/source/openssl-1.1.0e.tar.gz",
+     "version": "1.1.0f",
+     "url": "https://www.openssl.org/source/openssl-1.1.0f.tar.gz",
      "gpg_signature": "",
-     "gpg_signature_url": "https://www.openssl.org/source/openssl-1.1.0e.tar.gz.asc",
-     "sha1": "8bbbaf36feffadd3cb9110912a8192e665ebca4b",
-     "sha256": "57be8618979d80c910728cfc99369bf97b2a1abd8f366ab6ebdee8975ad3874c",
-     "sha512": "4b75e925323703d4a31ade90ea687e027742b7bf4f0f6cb4476e7bb9e31dcaf60eb40d925bc768ff1c28ffa71b8f9639dd83662d49ad80100a388947e75647a0",
+     "gpg_signature_url": "https://www.openssl.org/source/openssl-1.1.0f.tar.gz.asc",
+     "sha1": "9e3e02bc8b4965477a7a1d33be1249299a9deb15",
+     "sha256": "12f746f3f2493b2f39da7ecf63d7ee19c6ac9ec6a4fcd8c229da8a522cb12765",
      },
 
     # LibreSSL
@@ -204,7 +190,6 @@ RELEASES = [
      "gpg_signature_url": "https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-2.5.4.tar.gz.asc",
      "sha1": "1fa2eb0b1c8285a4f51132ac78cd8c95f302b768",
      "sha256": "107a5b522fbb8318d4c3be668075e5e607296f0a9255d71674caa94571336efa",
-     "sha512": "8ca86c14af0020c90bef4651892799864938dab9d898172269cb78bad5963314e064f2b4c46e6a04e0b85d1eddbd1840b734803c11ceec8fd6bb1290e0fe204c",
      },
     {"publisher": "LibreSSL",
      "publisher_keys": ["A1EB079B8D3EB92B4EBD3139663AF51BD5E4D8D5"],
@@ -215,7 +200,6 @@ RELEASES = [
      "gpg_signature_url": "",
      "sha1": "6951f351007c5653d83321af2d22d833a9c27580",
      "sha256": "09a2fc9be76816425148db057502c738111baff30f6e42c1b8f2ddbd22543307",
-     "sha512": "9692fb3172eba123fa3cf0ead9caf74c6e6ea38615d67f3c2db4d49d37451838f856959de2f8d8e52a0713188a0697dcc8b186ae1a74c8c82d899aa79f71979f",
      },
 
     # OpenSSH
@@ -228,7 +212,6 @@ RELEASES = [
      "gpg_signature_url": "https://ftp.openbsd.org/pub/OpenBSD/OpenSSH/openssh-7.5.tar.gz.asc",
      "sha1": "81384df377e38551f7659a4c250383d0bbd25341",
      "sha256": "1a693c8ce74674a6bb362c5437927e6d331f7ae9b9571f0dbfe95e01d40dab75",
-     "sha512": "208dfb96cf909ad7ffe9db1d7c11b23fe5e72813c2ca3e89de0da29fd475829b115d3164308586161855d3f8b1e197e2cda42e7ff48b881d871da9fc99af2171",
      },
 
     # OpenVPN
@@ -241,7 +224,6 @@ RELEASES = [
      "gpg_signature_url": "https://swupdate.openvpn.org/community/releases/openvpn-2.4.2.tar.gz.asc",
      "sha1": "d3db7126774354a47c8b7e21ed1ce9fcb4691737",
      "sha256": "b24740c9d44a81eaf2befc4846d51445a520104321e32aaf0c135ed2e098a624",
-     "sha512": "9be3cef25f398c426087581d8bb2589ae2a3a1b3b812c73f7e9a4d3c35098421eea3099b33fc90606162d0429dcd7d9ae3449af89602e060e47cd4c053720e72",
      },
     {"publisher": "OpenVPN",
      "publisher_keys": ["6D04F8F1B0173111F499795E29584D9F40864578"],
@@ -252,7 +234,6 @@ RELEASES = [
      "gpg_signature_url": "https://swupdate.openvpn.org/community/releases/openvpn-install-2.4.2-I601.exe.asc",
      "sha1": "73d7797c24bf1cdcb76c7d38fb7a2c85e78d9ec8",
      "sha256": "8bc69cd27ca196675642e1b3f1c03abe9bd1143351ae973d06ecc0013cf44053",
-     "sha512": "78de440bbef035cad396012e175e3fb8de4f303da0dbff4a0c071a7ae6b002610527e42601ee6c211a26d9cc6536aaf694fcdf2f9154d1db14b6f8b2d6f36de0",
      },
 
     # Tunnelblick
@@ -265,6 +246,5 @@ RELEASES = [
      "gpg_signature_url": "",
      "sha1": "665250f4b727199d340f3acbb8e1030efb193848",
      "sha256": "66f99c50a8cad2985ecc224e378dbd79bb01c3d6b66ae7b16f69b780ee76b6c9",
-     "sha512": "246995f7acac1493c3afed4c30d1fb21b6fd3ecdfefddf2ca2b618b0eb77b6d82d275ce0254cc922f61ee06a4d12537f9a767d2eccc16baf1ba5b293f09738c1",
      },
 ]
