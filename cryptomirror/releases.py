@@ -37,7 +37,7 @@ RELEASES = [
      "url": "https://mirrors.ocf.berkeley.edu/tails/stable/tails-amd64-3.0.1/tails-amd64-3.0.1.iso",
      "gpg_signature": "",
      "gpg_signature_url": "https://tails.boum.org/torrents/files/tails-amd64-3.0.1.iso.sig",
-     "sha1": "e95d8841d447304feae7defbff25d1745486a96e",
+     "sha1": "323b417b17e856f81ce709f9ed80fe914a2b5e92",
      "sha256": "4a23a495c41f4c6e47a65990174d9e7f9bb68821c5d1fa68df86b7fd6eef6f2c",
      },
 
